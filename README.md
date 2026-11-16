@@ -72,7 +72,7 @@
 | [**vue3-todo-app**](https://github.com/rikiafilafwork/vue3-todo-app) | Todo app built with the Vue 3 Composition API | Vue 3 |
 | [**pomodoro-timer**](https://github.com/rikiafilafwork/pomodoro-timer) | Pomodoro focus timer | JavaScript |
 
-> 🔒 Most of my professional work (fullstack web apps, event platforms, admin dashboards with role management) lives in private repositories. Happy to walk through it in an interview.
+> 🔒 Most of my professional work (fullstack web apps, event platforms, admin dashboards with role management) lives in private repositories. Happy to walk through it on a call.
 
 ---
 
