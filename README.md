@@ -20,11 +20,11 @@
 ## 🙋‍♂️ About Me
 
 - 💼 Fullstack Developer at **WZ Technology**
-- 📍 Based in **Bandung, Indonesia** (UTC+7), open to remote collaboration
+- 📍 Based in **Bandung, Indonesia** (UTC+7 / WIB), working remotely
 - 🧩 I take features from database design and REST APIs through to responsive, production-ready UIs
 - 🛠️ Day to day I work with **TypeScript**, **Vue/Nuxt**, **NestJS**, and **Laravel**
 - 🌱 Currently sharpening: scalable backend architecture, testing, and clean code practices
-- 📫 Open to **fullstack / frontend / backend roles** and freelance projects: [rikiafilaf.work@gmail.com](mailto:rikiafilaf.work@gmail.com)
+- 📫 **Available for remote freelance** outside office hours (weekdays after 18:00 WIB & weekends): [rikiafilaf.work@gmail.com](mailto:rikiafilaf.work@gmail.com)
 
 ---
 
