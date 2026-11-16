@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rikiafilafwork.github.io"><img src="https://img.shields.io/badge/Website-Visit-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/riki-afila-f-7068631a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rikiafilaf.work@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://instagram.com/rikiafila"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -89,5 +90,5 @@
 
 <p align="center">
   <b>Let's build something great together.</b><br>
-  📩 <a href="mailto:rikiafilaf.work@gmail.com">rikiafilaf.work@gmail.com</a> · 💼 <a href="https://linkedin.com/in/riki-afila-f-7068631a9">LinkedIn</a>
+  🌐 <a href="https://rikiafilafwork.github.io">rikiafilafwork.github.io</a> · 📩 <a href="mailto:rikiafilaf.work@gmail.com">rikiafilaf.work@gmail.com</a> · 💼 <a href="https://linkedin.com/in/riki-afila-f-7068631a9">LinkedIn</a>
 </p>
