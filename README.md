@@ -78,11 +78,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rikiafilafwork&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiafilafwork&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats">
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rikiafilafwork&theme=github_dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=rikiafilafwork&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
